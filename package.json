@@ -2,7 +2,7 @@
   "name": "stopwatch",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Vineesh-AI-DS.github.io/stopwatch/",
+  "homepage": "https://github.com/AshwinRaaj/stop-watch.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
